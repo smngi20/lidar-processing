@@ -12,6 +12,6 @@ __Good algorithms I frequently use for processing lidar data__
 
 
 
-# TOOLS USED 
+## MAIN LIDARS TESTED ON 
 1. Livox Horizon 
 2. Velodyne VLP-16
